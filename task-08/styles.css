@@ -1,0 +1,167 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #afcdd7;
+  text-shadow: 3px 0 #bd3d77;
+
+}
+
+.w 
+{
+  cursor: pointer;
+  color: white;
+}
+.w:hover
+{
+  background-color:rgb(190, 15, 50);
+  color: maroon;
+}
+.w:active
+{
+  background-color: rgb(214, 32, 51);
+
+}
+
+.a 
+{
+  color: gray;
+  cursor: pointer;
+}
+
+.a:hover
+{
+  background-color: rgb(243, 153, 37);
+  color: orangered;
+}
+.a:active
+{
+  background-color: rgb(235, 168, 81);
+  
+}
+
+
+.s 
+{
+  color: green;
+  cursor: pointer;
+}
+.s:hover
+{
+  background-color: rgb(238, 238, 91);
+  color:rgb(255, 221, 0);
+}
+.s:active
+{
+  background-color: rgb(248, 255, 148);
+  
+}
+
+
+.d 
+{
+  color: red;
+  cursor: pointer;
+}
+.d:hover
+{
+  background-color: limegreen;
+  color:darkgreen;
+}
+.d:active
+{
+  background-color: lightgreen;
+  
+}
+
+
+.j 
+{
+  color: aqua;
+  cursor: pointer;
+}
+.j:hover
+{
+  background-color: rgb(20, 118, 188);
+  color: rgb(5, 54, 103);
+}
+.j:active
+{
+  background-color: rgb(65, 139, 213);
+  
+}
+
+
+.k 
+{
+  color: violet;
+  cursor: pointer;
+}
+.k:hover
+{
+  background-color:darkorchid;
+  color: rgb(74, 14, 138);
+}
+.k:active
+{
+  background-color:rgb(130, 98, 164);
+  
+}
+
+
+.l 
+{
+  cursor: pointer;
+  color:#283149
+  
+}
+.l:hover
+{
+  background-color: fuchsia;
+  color: rgb(176, 13, 135);
+  cursor: pointer;
+}
+.l:active
+{
+  background-color: rgb(233, 61, 193);
+  
+}
+
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
