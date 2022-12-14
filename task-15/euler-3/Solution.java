@@ -1,0 +1,50 @@
+package amfoss_java;
+
+import java.util.*;
+class Solution
+{
+	public static void main(String args [])
+	{
+		Scanner sc = new Scanner (System.in);
+		int n=sc.nextInt();
+		int a[]= new int[n];
+		int sum=0;
+		int b[]=new int[n];
+		for(int i=0;i<n;i++)
+		{
+			a[i]=sc.nextInt();
+		}
+		int max=0;
+		for(int i=0;i<n;i++)
+		{
+			int k=1;
+		    while(k<=a[i])
+		    {
+		    	if(a[i]%k==0)
+		    	{
+		    		int c=0;
+		    		int x=1;
+		    		while(x<=k)
+		    		{
+		    			if(k%x==0)
+		    			{
+		    				c=c+1;
+		    			}
+		    			x++;
+		    		}
+		    		if(c==2)
+		    		{
+		    			max=k;
+		    		}
+		    	}
+		    	k++;
+		    }
+		    b[i]=max;
+		}
+		for(int i=0;i<n;i++)
+		{
+			System.out.println(b[i]);
+		}
+		
+	}
+}
