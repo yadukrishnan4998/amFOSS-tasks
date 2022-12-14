@@ -42,4 +42,6 @@ As I said, I am currently learning Python which I started learning after my entr
 
 - 💞️ I’m looking to collaborate on projects at amFOSS.
 
-- 📫 How to reach me: Gmail: yadukrishnan.4998@gmail.com 
+- 📫 How to reach me: 
+
+Gmail: yadukrishnan.4998@gmail.com 
