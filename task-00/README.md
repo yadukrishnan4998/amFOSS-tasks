@@ -1,4 +1,4 @@
-# amfoss---tasks
+# Install Ubuntu
 
 Installing Ubuntu was very easy, since I had help from my father who is a System Administrator and a Linux Mint enthusiast. 
 I didn't face any issue while installing Ubuntu 20.04 LTS. I partitioned about 100GB for ubuntu and the rest for Windows.
