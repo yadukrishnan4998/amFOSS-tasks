@@ -1,9 +1,1 @@
-# Getting started:
-
-<ol>
-  <li>Clone this repository into your local machine</li>
-  <li>Open the folder in an editor of your choice (Recommended - VS Code)</li>
-  <li>Download the Live Server extension in VS Code to instantly see your changes made to the website without refreshing the tab</li>
-</ol>
-
-<p>You can begin this task by referring to the READMEs given in the folders named Part-1,2,3,4</p>
+This was one of the interesting tasks among the tasks apart from Flame Game and GO WASM. From linking the CSS and Javascript files to the html file to designing and customizing the buttons was very interesting to me. I customized every button to different colours when the cursor is hovering over it and when clicking. Then there was the Javascript file. Initially I wanted to program each of the button in a way that when I clicked one, that input should be called to a general function which will determine the corresponding sound. But when I googled for possible solutions, each site was describing how to execute a task for only one button. So I defined seven functions for each of the button and linked the CSS and Javascript files to the html file. The local website worked and each button played a characteristic sound corresponding to the button pressed.
