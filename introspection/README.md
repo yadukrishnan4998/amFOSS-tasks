@@ -1,17 +1,17 @@
-Why must we chose you?
+## Why must we chose you?
 
 I am very pationate about open-source even though I am very new to all of this. In school from 9th grade I statrted learning programming in Java and whenever I solved programming problems in Java it inspired me to take Computer Science in 12th grade. After my exams I started my coding career by learning some basics of Python. I started browsing a lot about getting started in coding and software development. The Quora community was the reason why I came to know about GSoC. Just learning and digging deeper into what GSoC is, was a turning point in my "getting started" coding career. I really wanted to participate in GSoC. I saw students from many colleges get to GSoC from BITS Pilani, IIIT Hyderabad, IITs and some NITs as well. But among them all, Amrita School Of Engineering, Amritapuri was one as well, which surprised me a lot because if anything, I would've been less surprised if it was Amrita School of Engineering, Coimbotore. And that's how I came to know about a club called amFOSS at Amrita Vishwavidyapeetham, Amritapuri campus. And amFOSS is one of the biggest reasons why I chose Amrita for my Engineering career as well. Learning coding was one of the things that made me really interested in developing useful software. From the amFOSS 30-day workshop, I saw a lot of interesting things and a glimpse of what open-source is and how it works. I am very interested in learning different techniques and deploying it into mini projects which then can become life-changing software with some help from the community.
 
-What is your plan for the next 6 months?
+## What is your plan for the next 6 months?
 
 My plan for the next 6 months is to learn Python and stick to it, along with learning bits of other languages like C/C++ etc. I have now understood that it's about time to leave Java since it's ageing quite a lot. After establishing some good knowledge in Python, I want to continue developing projects based on the things that I've learned so far. I haven't really decided what to work on. I also want to establish my Github account and try to contribute a lot to the open source community by checking out several open source projects. Software development is slowly becoming a hobby for me and I know amFOSS is a pathway to make me be determined & invested in contributions and projects. I've learned to treat it like a hobby. It's fun to create something that works!
 
 
-How would you contribute back to the club?
+## How would you contribute back to the club?
 
 I really didn't have much idea about the club coming to the college, but as of now I've learned a lot about the club. Open-Source projects are one of the main things amFOSS memebers work on. Participating in competitions and hackathons is another thing that interests me about the club. I want to contribute to amFOSS projects that interests me and I know that there are going to be a lot. By contributing I mean correcting errors and adding new elements to projects and just making it better aesthetically and functionally. I don't know much about the departments constituting the club but so far I've learned that there is a web development team, Android application software development team etc.
 
 
-Do you have any feedback on the selection process?
+## Do you have any feedback on the selection process?
 
 I don't see anything wrong with the selection process. But I genuinely do think that this is one of the best recruitment processes that I've seen. This selection process is just the perfect way to select a person who is determined to do task, contribute to open-source and someone who is good at efficient learning. 
