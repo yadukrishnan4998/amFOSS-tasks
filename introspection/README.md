@@ -14,4 +14,4 @@ I really didn't have much idea about the club coming to the college, but as of n
 
 Do you have any feedback on the selection process?
 
-I don't see anything wrong with the selection process. But I genuinely do think that this is one of the best recruitment processes that I've heard of. This selection process is just the perfect way to select a person who is determined to do task, contribute to open-source and someone who is good at efficient learning. 
+I don't see anything wrong with the selection process. But I genuinely do think that this is one of the best recruitment processes that I've seen. This selection process is just the perfect way to select a person who is determined to do task, contribute to open-source and someone who is good at efficient learning. 
