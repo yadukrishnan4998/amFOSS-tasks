@@ -1,2 +1,1 @@
-How I approached this task:
-
+This was an another easy task which took me only a couple of minutes to do. Accordingly I followed the steps mentioned in the README.md file of the task. I did the whole task using terminal even though I could've copy pasted the files from one folder to another manually without using the terminal commands. So the four parts of the task was simple. From the fifth step onwards I needed to use some git commmands as mentioned. I learned a lot about Git while doing this task, like commiting the changes to the main branch via terminal, or switching to the main branch or sub-branch through terminal or checking out a branch etc. This was one of the most fun tasks to do, if done using only terminal otherwise it's boring.
