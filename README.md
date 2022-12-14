@@ -27,8 +27,6 @@
 | [task-15](https://github.com/yadukrishnan4998/amFOSS---tasks/tree/main/task-15) | Project Euler [for math geeks]      | Done 3 questions            |
 
 
-# My Thoughts
-
 
 
 # About Me
