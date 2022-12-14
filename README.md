@@ -9,7 +9,7 @@
 | [task-00](https://github.com/yadukrishnan4998/amFOSS---tasks/tree/main/task-00) | Install Ubuntu 20.04 LTS [Desktop]  | Done                        |
 | [task-01](https://github.com/yadukrishnan4998/amFOSS---tasks/tree/main/task-01) | Star all the amFOSS repositories    | Done                        |
 | [task-02](https://github.com/yadukrishnan4998/amFOSS---tasks/tree/main/task-02) | Terminal Hunt                       | Done                        |
-| [task-03](https://github.com/yadukrishnan4998/amFOSS---tasks/tree/main/task-03) | Programming in [Hackerrank](https://www.hackerrank.com/yadukrishnan_491)            | One completed Attempted one |
+| [task-03](https://github.com/yadukrishnan4998/amFOSS---tasks/tree/main/task-03) | Programming [[Hackerrank]](https://www.hackerrank.com/yadukrishnan_491)            | One completed Attempted one |
 | task-04 | Cinebot [Python Telegram Movie Bot] | Unattempted                 |
 | task-05 | Find the Bug                        | Unattempted                 |
 | task-06 | Flame Game                          | Unattempted                 |
