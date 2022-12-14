@@ -23,7 +23,7 @@
 | task-11 | Figma Ninja                         | Unattempted                 |
 | task-12 | Bunny Heist                         | Unattempted                 |
 | task-13 | Footfall Counter                    | Unattempted                 |
-| task-14 | Bandit                              | Attempted                   |
+| task-14 | Bandit                              | Unattempted                   |
 | [task-15](https://github.com/yadukrishnan4998/amFOSS---tasks/tree/main/task-15) | Project Euler [for math geeks]      | Done 3 questions            |
 
 
